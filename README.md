@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RajKumar9066
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning DevOps and Web DEvelopment
 - 📫 elvishraj9066@gmail.com
