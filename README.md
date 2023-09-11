@@ -1,15 +1,18 @@
+<source src=""D:\others\Welcome to my GitHub Profile.mp4"" type="video/mp4">
 <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bharat.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumar9066&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumar9066" /> </p>
 
 <p align="left"> <a href="https://twitter.com/immanuel_raj_" target="blank"><img src="https://img.shields.io/twitter/follow/immanuel_raj_?logo=twitter&style=for-the-badge" alt="immanuel_raj_" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Next.Js**
 
 - 📫 How to reach me **elvishraj9066@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-yDuHL-nzoHKc25qZul5Az-veTySl9J0/view?usp=sharing](https://drive.google.com/file/d/1-yDuHL-nzoHKc25qZul5Az-veTySl9J0/view?usp=sharing)
+
+- ⚡ I have not failed. I’ve just found 10,000 ways that won’t work. **– Thomas Edison**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkumar9066&show_icons=true&locale=en" alt="rajkumar9066" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar9066&" alt="rajkumar9066" /></p>
-
