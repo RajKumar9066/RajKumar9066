@@ -1,4 +1,4 @@
-<source src=""D:\others\Welcome to my GitHub Profile.mp4"" type="video/mp4">
+<img src="Raj Kumar.png" width="1280x640px"><br>
 <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 <h3 align="center">A passionate frontend developer from Bharat.</h3>
 
